@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Jeryl D. Ongpao</title>
+    <title>JERYL ONGPAO PROFILE PAGE</title>
 </head>
 <body>
+    <h1>My Profile</h2>
     <p>BSIT 4-5</p>
     <p>Student Number: 202302102</p>
-    <p>Welcome to my GitHub Pages!</p>
+    <p> 
+        <b>GIthub:</b>
+    <a href="https://github.com/Ongpao/202302102github.io">Here my page</a>
+    <p>
 </body>
 </html>
